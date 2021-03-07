@@ -7,3 +7,44 @@ To refresh concepts on Digital Communications and SDR techniques has been includ
 
 Just enjoy with fun all the contents and information in [SDR4Funatics](https://github.com/BelmY/SDR-FuNatic) and multiband SDR's in [SDR4Fun](http://sdr4fun.com/)
 
+We are also preparing a Linux distribution, named ["DragonSDoR"](https://github.com/BelmY/wikiSDoR/wiki), with essential SDR, Decoding, Signal Intelligence (SIGINT) & Processing (inc. GNU Octave) frameworks and applications for SDR experimentation, based on the excellent DragonOS compilation and Lubuntu. If you want to contribute to this version, feel free to propose your preferences and skills.
+
+[DragonOS Focal](https://sourceforge.net/projects/dragonos-focal/) is an out-of-the-box Lubuntu 20.04 based x86_64 operating system for anyone interested in software defined radios.
+
+Additional applications and SDR devices support have been added to the original DragonOS
+
+* SDR HW supported: 
+  - SoapySDR
+  - OsmoSDR
+  - HackRF One
+  - RTL-SDR
+  - LimeSDR & LimeSDR-Mini
+  - PlutoSDR (IP & IIO)
+  - USRP
+  - etc
+* GNU Octave  
+* GNU Radio  
+  - gr-gsm  
+* Pothosware Framework  
+* Limesuite  
+* SDRAngel
+* OpenWebRx  
+* SigDigger (Signal Analysis Tool)
+* Universal Radio Hacker & BTS/LTE Tools
+  - Aircrack-ng
+  - srsLTE
+  - LTE-Cell-Scanner
+  - Yate/YateBTS
+  - Osmo-NITB
+* GQRX
+* Wireshare
+* Zenmap
+* QSpectrumanalyzer
+* CubicSDR
+* ShinySDR
+* SDRTrunk
+* Kismet
+* BladeRF
+
+and many more
+---
